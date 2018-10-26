@@ -49,16 +49,16 @@ GPU的性能主要由以下三个参数构成：
 
 ## 如何选择适合自己的框架？
 目前常用的框架有tensorflow,keras,pytorch,mxnet等等，各个框架的优缺点在此简单介绍：
-1，tensorflow：
-优点：
-缺点:
-2，keras:
-优点：
-缺点:
-3,pytorch:
-优点：
-缺点:
-4,caffe2:
+1，tensorflow：  
+优点：  
+缺点:  
+2，keras:  
+优点：  
+缺点:  
+3,pytorch:  
+优点：  
+缺点:  
+4,caffe2:  
 优点：
 缺点:
 5,mxnet
@@ -66,15 +66,17 @@ GPU的性能主要由以下三个参数构成：
 缺点:
 
 ## 小结：
-1，新手入门，首推pytorch，上手快，资源丰富
-2，目前工业部署，tensorflow是首选，并且在分布式训练这一块基本一家独大；
-3，目前
+1，新手入门，首推pytorch，上手快，资源丰富  
+2，目前工业部署，tensorflow是首选，并且在分布式训练这一块基本一家独大  
+3，目前  
+
 
 ## 模型部署
 我们一般都是通过python或者其他语言来编码训练模型，然后使用后端代码来进行部署
 一般的框架都是对应的部署方法，比如，tensorflow，pytorch，caffe2，mxnet等等
 有一些框架是专门做推理部署使用的，比如
-（1）tensorRT
-(2)TVM
-(3)ONNX
+（1）tensorRT  
+ (2)TVM  
+ (3)ONNX  
+ 
 
